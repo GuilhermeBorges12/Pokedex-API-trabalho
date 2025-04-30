@@ -8,17 +8,17 @@
  
  Aplicativo de Pokédex que consome a PokeAPI e integra com Firebase para autenticação.
  
- ## Funcionalidades
- - Listagem de Pokémon
- - Busca por nome/tipo
- - Autenticação com Firebase
- - Modo claro/escuro
- 
  ## Tecnologias
  - Flutter 3.19
  - Firebase Auth
  - PokeAPI
  - Provider (gerenciamento de estado)
+
+ ## Funcionalidades
+ - Listagem de Pokémon
+ - Busca por nome/tipo
+ - Autenticação com Firebase
+ - Modo claro/escuro
  
  ## Como Executar
  
